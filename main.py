@@ -4,8 +4,8 @@ from datetime import datetime, timedelta
 from instagrapi import Client
 
 # Instagram credentials
-USERNAME = "you_username"
-PASSWORD = "you_password"
+USERNAME = "lapo_6090"
+PASSWORD = "thitiyakorn2564"
 
 # Constants
 BASE_MINUTE_INTERVAL = 15
